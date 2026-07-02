@@ -22,4 +22,4 @@ python student_result_checker.py
 
 ## Output
 
-![Program Output](screenshot/Output.png)
+![Program Output](screenshots/output.png)
